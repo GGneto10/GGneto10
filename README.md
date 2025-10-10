@@ -4,19 +4,16 @@
 
 ## 🚀 About Me
 
-````python
-class Developer:
-    def __init__(self):
-        self.name = "Geraldo Gomes de Oliveira Neto"
-        self.role = "BackEnd Developer/ Game Dev"
-        self.location = "Natal, BR"
-        self.passion = "Creating amazing software and games"
-    
-    def skills(self):
-        return ["JavaScript", "Python", "C++", "C#"]
+# 👋 Hello, I'm Geraldo Gomes de Oliveira Neto
 
-me = Developer()
-````
+**📍 Location:** Natal, BR  
+**💼 Role:** BackEnd Developer/ Game Dev  
+**🎯 Passion:** Creating amazing software and games  
+
+## 🛠 Skills
+- **Languages:** JavaScript, Python, C++, C#
+- **Backend Development**
+- **Game Development**
 
 ## 💻 Tech Stack
 
