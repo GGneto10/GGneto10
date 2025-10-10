@@ -1,21 +1,18 @@
-# 👋 Hello, I'm Geraldo Gomes de Oliveira Neto!
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=BackEnd+Developer;Game+Developer;AI+Enthusiast)](https://git.io/typing-svg)
-
 ## 🚀 About Me
 
 ```python
 class Developer:
     def __init__(self):
         self.name = "Geraldo Gomes de Oliveira Neto"
-        self.role = "BackEnd Developer/ Game Dev"
+        self.role = "BackEnd Developer / Game Dev"
         self.location = "Natal, BR"
         self.passion = "Creating amazing software and games"
     
     def skills(self):
         return ["JavaScript", "Python", "C++", "C#"]
-```
+
 me = Developer()
+```
 
 ## 💻 Tech Stack
 
