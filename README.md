@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-```python
+````python
 class Developer:
     def __init__(self):
         self.name = "Geraldo Gomes de Oliveira Neto"
@@ -16,7 +16,7 @@ class Developer:
         return ["JavaScript", "Python", "C++", "C#"]
 
 me = Developer()
-```
+````
 
 ## 💻 Tech Stack
 
