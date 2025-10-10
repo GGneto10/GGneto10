@@ -14,9 +14,9 @@ class Developer:
     
     def skills(self):
         return ["JavaScript", "Python", "C++", "C#"]
-
-me = Developer()
 ```
+me = Developer()
+
 ## 💻 Tech Stack
 
 ### Backend
