@@ -6,7 +6,7 @@
 class Developer:
     def __init__(self):
         self.name = "Geraldo Gomes de Oliveira Neto"
-        self.role = "BackEnd Developer / Game Dev"
+        self.role = "Full-Stack Dev/ Game Dev"
         self.location = "Natal, BR"
         self.passion = "Creating amazing software and games"
     
