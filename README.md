@@ -56,6 +56,3 @@ me = Developer()
 ---
 
 ⭐️ From [GGneto10](https://github.com/GGneto10)
-
-
-melhore adicionando pontos de front-end também, um dev full stack junior, sei CSS, HTML e alguns outros adereços.
